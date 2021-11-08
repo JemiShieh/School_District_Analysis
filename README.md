@@ -5,7 +5,7 @@ Assist Maria, the Chief Data Scientist for the PyCity School District, in analyz
 
 Use open-source distribution software called Anaconda and the Jupyter Notebook to analyze and visualize data from the schools_complete and students_complete CSV files to complete the following:
 
-1  Replace certain math and reading scores due to academic dishonesty
+1. Replace certain math and reading scores due to academic dishonesty
 2. The school district summary
 3. The school summary
 4. The top 5 and bottom 5 performing schools, based on the overall passing rate
