@@ -32,8 +32,8 @@ Use open-source distribution software called Anaconda and the Jupyter Notebook t
   - Thomas High School remains the second-best performing school based on the overall passing percentage.      
   
 * How does replacing the ninth-grade scores affect the following:
-  - Math and reading scores by grade - Only the Thomas High School ninth grade math and reading scores were affected, going from 83.6 and 83.7, respectively, to Nan.  
-  
+  - Math and reading scores by grade - Only the Thomas High School ninth grade math and reading scores were affected, going from 83.6 and 83.7, respectively, to NaN.  
+ 
   - Scores by school spending - There were no significant changes, even to the $633-644 spending range including Thomas High School.
             
   - Scores by school size - There were no significant changes, even to the Medium school size range including Thomas High School.
